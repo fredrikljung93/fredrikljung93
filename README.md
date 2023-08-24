@@ -6,4 +6,4 @@ I'm a fullstack Software developer from Stockholm who is currently employed at [
 
 My primary programming languages are [scala](https://github.com/scala/scala), [elm](https://github.com/elm) and [C# .NET](https://github.com/dotnet)
 
-LinkedIn 💼: [fredrikljung93](https://www.linkedin.com/in/fredrikljung93)
+LinkedIn 💼: [ljung93](https://www.linkedin.com/in/ljung93)
